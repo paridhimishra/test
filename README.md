@@ -3,7 +3,7 @@ Running Project
 To run as python project use virtual environment (recommended as this install nltk and gensim libraries which might take a while), first create a new virtualenv and activate it.
 
 Navigate to project root level 
-$ cd test
+$ cd repo
 
 Install the requirements inside the created virtualenv
 $ pip install -r requirements.txt
