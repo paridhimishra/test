@@ -1,10 +1,9 @@
 Running Project
 
-Download and uncompress the project file culture-amp.7z
 To run as python project use virtual environment (recommended as this install nltk and gensim libraries which might take a while), first create a new virtualenv and activate it.
 
 Navigate to project root level 
-$ cd culture-amp-coding-test
+$ cd test
 
 Install the requirements inside the created virtualenv
 $ pip install -r requirements.txt
